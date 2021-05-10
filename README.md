@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @huahuaai
-- 👀 I’m interested in deeplearning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @huahuaai a master student of zhejiang university
+- 👀 I’m interested in deeplearning,GNN,GAN,self-supervised learning
+- 🌱 I’m currently learning molecular generation
+- 📫 How to reach me https://hzx1998.github.io/
 
 <!---
 huahuaai/huahuaai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
